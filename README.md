@@ -1,1 +1,2 @@
-# Challenge-3-Python
+# python-challenge
+Challenge #3 Python
